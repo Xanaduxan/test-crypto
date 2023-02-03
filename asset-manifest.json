@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/test-crypto/static/css/main.567e3d17.css",
+    "main.js": "/test-crypto/static/js/main.0a86c0b8.js",
+    "index.html": "/test-crypto/index.html",
+    "static/media/Ellipse171.svg": "/test-crypto/static/media/Ellipse171.01d175e6578d2dd40530.svg",
+    "static/media/Ellipse169.svg": "/test-crypto/static/media/Ellipse169.63f26b4c003102414adb.svg",
+    "static/media/Ellipse168.svg": "/test-crypto/static/media/Ellipse168.d4ee9f44af1396b2ba9a.svg",
+    "static/media/Ellipse170.svg": "/test-crypto/static/media/Ellipse170.22b2c8c4a422cc6de05a.svg",
+    "main.567e3d17.css.map": "/test-crypto/static/css/main.567e3d17.css.map",
+    "main.0a86c0b8.js.map": "/test-crypto/static/js/main.0a86c0b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.567e3d17.css",
+    "static/js/main.0a86c0b8.js"
+  ]
+}
